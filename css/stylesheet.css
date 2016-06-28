@@ -1,0 +1,48 @@
+
+
+
+body  {
+  background: Silver;
+}
+
+
+.wrapper {
+  width:600px;
+  margin-left: auto;
+  margin-right: auto;
+  background: white;
+  padding: 20px;
+}
+
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h2 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h4 {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+
+p {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+
+.left {
+  width: 50%;
+  float: left;
+}
+
+
+.colour-image {
+  width: 100%;
+  max-width: 320px;
+  display: block;
+  margin-left: center;
+  margin-right: center;
+}
